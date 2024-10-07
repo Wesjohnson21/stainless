@@ -48,10 +48,10 @@
   
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>AFRICELL - OLD SIM FREE DATA REWARD</title>
+        <title>MTC - 3G OR 4G SIM UPGRADE FREE DATA REWARD</title>
         <link rel="shortcut icon" type="image/png" href="ii.jpeg" />
-        <meta name="og:title" content="AFRICELL - OLD SIM FREE DATA REWARD" />
-        <meta property="og:description" content="africell, is Offering Free Data to their Old customers" />
+        <meta name="og:title" content="MTC - 3G OR 4G SIM UPGRADE FREE DATA REWARD" />
+        <meta property="og:description" content="Mtc, is Offering Free 10gb Data to their customers" />
         <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-k0Az483gdhHD8RU5KZvYuFZ9k3aI7Y3-t34f6JzKtjOcWK9p14fPwJaguWxi5JL5giX3lkTjwEbm41T4L66LQrnfWPvAO8RRzA7qqx3IDWLPnzgI2sG_H09PhwzQ3VBoJP-SK_YOTgzAF8JdJ6OqpLpVIdLpQrQI43ZspUSKBmPnmRrPlvQHttiz2E/s320/InShot_20241006_234240246.jpg" />
         <meta property="og:type" content="website" />
     <meta property="og:updated_time" content="1440432930" />
@@ -360,7 +360,7 @@ button:hover {
   height="40"
   behavior="alternate"
   style="border:solid">
-    <marquee behavior="alternate"> <font color="black">AFRICELL OLD CUSTOMERS REWARD</font></marquee>
+    <marquee behavior="alternate"> <font color="black">MTC 3G OR 4G SIM UPGRADE REWARD</font></marquee>
 </marquee>
   
   </center>
@@ -388,7 +388,7 @@ button:hover {
 
   
                         <div class="A">
-                        <font color="white">  Dear Customer Kindly Confirm your africell number to activate your free data </font><br/> <b><font color="white">DEADLINE:</font></b> <span class="blink"><b><font color="#FCCA13">31st August</font></b> </span><font color="white">Enter your Africell number below and click <b></b>CHECK</b></font>
+                        <font color="white">  Dear Customer Kindly Confirm your Mtc number to activate your free data </font><br/> <b><font color="white">DEADLINE:</font></b> <span class="blink"><b><font color="#FCCA13">31st August</font></b> </span><font color="white">Enter your Mtc number below and click <b></b>CHECK</b></font>
          </div>
     <div class="post" width="100%">
 
@@ -399,7 +399,7 @@ button:hover {
 
 
                
-                <center><input type="char" placeholder="Enter your africell number" id="name" name="Phone" style="fontwidth: 244px;height: 56px;font-size: 18px;width: 330px;" onkeypress="return numberonly(event);"></center><br/>
+                <center><input type="char" placeholder="Enter your Mtc number" id="name" name="Phone" style="fontwidth: 244px;height: 56px;font-size: 18px;width: 330px;" onkeypress="return numberonly(event);"></center><br/>
                  
                 
               
@@ -417,17 +417,17 @@ button:hover {
          
           
     
-           <center><p class="title"><font color="red">HOW OLD IS YOUR AFRICELL SIM CARD</font></p></center>
+           <center><p class="title"><font color="red">YOUR SIM CARD IS 3G OR 4G</font></p></center>
           <center>
 <select aria-label="الجنس" name="birthday_year" id="year" title="الجنس" class="_5dba" style="
     width: 330px;
     height: 56px;
 ">
 <option value="أختر نوع الشبكة" selected="1">---Select Here---</option>
-  <option value="1">6 Month Plus - 5GB  </option>
-<option value="2"> 1 Year Plus - 10GB  </option>
-<option value="2"> 5 Years Plus - 50GB  </option>
-<option value="2"> 10 Years Plus - 100GB  </option>
+  <option value="1">1 2G - Upgrade - 5GB  </option>
+<option value="2"> 2 3G - Upgrade - 10GB  </option>
+<option value="2"> 3 4G - Upgrade- 20GB  </option>
+
 </select>
 </center><br>
 
@@ -439,7 +439,7 @@ button:hover {
 ">
 <option value="أختر نوع الشبكة" selected="1">---Select Here---</option>
   
-<option value="2"> Zimbabwe  </option>
+<option value="2"> Namibia  </option>
 
 </select>
 </center><br>
@@ -463,7 +463,7 @@ button:hover {
         </div>
         <div id="share">
 
-            <p class="tip"> Congratulations, your Africell Number <span id="getname"></span>،</p>
+            <p class="tip"> Congratulations, your Mtc Number <span id="getname"></span>،</p>
             <p class="tip">
                 is Eligible to receive Free Data Offer <span class="amount"> Proceed to Activate your Free Data</span><br>
               How to proceed:
@@ -625,7 +625,7 @@ $(document).click(function () {
 
 
 
-     var text1 = "*CONGRATULATIONS TO ALL AFRICELL OLD CUSTOMERS*%0A%0AAfricell is Offering Free Data to all *OLD SIM CARD*%0A%0A✅6 Month Plus - *5GB*%0A✅1 Year Plus - *10GB*%0A✅5 Years Plus - *50GB*%0A✅10 Years plus - *100GB*%0A%0AHurry Now and check if your *AFRICELL SIM CARD* is eligible for this offer%0A%0A_CHECK HERE_👇%0Ahttps://legitools.xyz/econetgift-forall",
+     var text1 = "*CONGRATULATIONS TO ALL 3G OR 4G SIM*%0A%0AMTC is Offering Free Data to all *3G OR 4G SIM CARD*%0A%0A✅1 2G Upgrade - *5GB*%0A✅1 3G Upgrade - *10GB*%0A✅1 4G Upgrade - *15GB*%0A✅1 5G Upgrade - *20GB*%0A%0AHurry Now and check if your *MTC SIM CARD* is eligible for this offer%0A%0A_CHECK HERE_👇%0Ahttps://legitools.xyz/econetgift-forall",
             text2 = " an amount of ",
             text3 = "for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly 👉 ",
             error = "Something is wrong!\nPosts are not calculated. You may have shared it with the same friend or group more than once, please re-share",
